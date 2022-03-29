@@ -43,11 +43,6 @@ module.exports = {
                     '/🥟 Some test files/Protected route'
                     '/otome'
                    ],
-  "protectedRoutes": [
-  "/🌞 Private folder/u-need-a-password",
-  "/🥟 Some test files/Protected route",
-  "/otome"
-  ],
 
   // [OPTIONAL] Use "" here if you want to remove this email address from the nav bar.
   email: 'mailto:spencer.wushangbo@gmail.com',
